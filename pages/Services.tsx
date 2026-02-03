@@ -43,7 +43,7 @@ const Services: React.FC = () => {
           {/* Service 2 */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
             <div className="space-y-6">
-              <h3 className="text-3xl font-bold text-rose-600 uppercase tracking-tight">Intelligent Payroll Management</h3>
+              <h3 className="text-3xl font-bold text-rose-600 uppercase tracking-tight">Payroll Management</h3>
               <p className="text-slate-600 text-lg leading-relaxed">
                 Technology should eliminate administrative friction. Our payroll management services utilize automated systems to ensure your team is paid accurately and on time, every time. We handle the technical backend of compliance, reporting, and disbursements.
               </p>
