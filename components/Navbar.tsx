@@ -1,4 +1,5 @@
 import React from 'react';
+import gmnLogo from './gmn1.png'; 
 import { Link, useLocation } from 'react-router-dom';
 
 const Navbar: React.FC = () => {
@@ -18,7 +19,7 @@ const Navbar: React.FC = () => {
           {/* Logo + Brand */}
           <Link to="/" className="flex items-center space-x-2 sm:space-x-3 pr-4">
             <img
-              src="/gmn1.png"
+              src={gmnLogo}
               alt="GaMaNor Logo"
               className="h-6 w-6 xs:h-7 xs:w-7 sm:h-10 sm:w-10 md:h-12 md:w-12 object-contain"
             />
