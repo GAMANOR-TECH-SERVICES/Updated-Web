@@ -430,7 +430,7 @@ const Contact: React.FC = () => {
               className="w-64 sm:w-auto px-6 py-3 bg-gradient-to-r from-[#84C5C9] to-[#D4AF37] font-bold text-sm uppercase tracking-widest rounded-sm hover:shadow-[0_0_25px_rgba(132,197,201,0.4)] transition-all text-center"
               style={{ color: '#000000' }}
             >
-              Start a Project
+              Contact on Whatsapp
             </a>
 
             <a
